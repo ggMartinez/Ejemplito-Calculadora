@@ -19,7 +19,3 @@
         echo $dividendo / $divisor;
     }
 
-    function elevarAlCuadrado($base){
-        echo "$base ^ 2 = ";
-        echo $base * $base;
-    }
