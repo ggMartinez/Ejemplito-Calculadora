@@ -1,5 +1,7 @@
 <?php 
 
+
+    echo "Flor de calculadora";
     require "funciones.php";
 
 
